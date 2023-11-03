@@ -1,4 +1,4 @@
-# Contributing to this Repository
+# Contributing to the Repository
 
 > Please submit a pull request early in the development phase, outlining the changes you intend to make or features you intend to add. This allows us to offer feedback early on, ensuring your contribution can be added to the repository before you invest a significant amount of time.
 

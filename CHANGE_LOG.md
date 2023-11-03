@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 _________________________________________________________________________
+## 2023-11-03
 
+> Created website for the repository
+> Drafted and added agenda
+> Added the index.qmd for introductory information
+> 
 ## 2023-10-10
 
 > ### Summary

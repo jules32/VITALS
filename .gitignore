@@ -9,3 +9,4 @@
 *.hdr*
 *.nc*
 /ignore
+/.quarto/
